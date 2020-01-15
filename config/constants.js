@@ -1,0 +1,8 @@
+export const CARD_TYPES = {
+    VISA: "VISA",
+    MASTERCARD: "MASTERCARD",
+    AMEX: "AMEX",
+    DISCOVER: "DISCOVER",
+    DINERSCLUB: "DINERSCLUB",
+    JCB: "JCB",
+};
